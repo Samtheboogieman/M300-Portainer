@@ -3,8 +3,6 @@
 ---
 
 # Inhaltsverzeichnis
-
-- [**Dokumentation LB2**](#dokumentation-lb2)
   
 
 - [**Dokumentation LB2**](#dokumentation-lb2)
@@ -35,7 +33,7 @@ Die Idee ist es schnell eine Portainer umgebung aufzuseten und direkt loslegen k
 <a name="grafische"></a>
 # Grafische Übersicht des Portainer Services
 
-[![Test](https://github.com/Samtheboogieman/M300-Portainer/blob/master/LB2/images/vagrant.png)]
+![Test](https://github.com/Samtheboogieman/M300-Portainer/blob/master/LB2/images/vagrant.png)
 
 ---
 
