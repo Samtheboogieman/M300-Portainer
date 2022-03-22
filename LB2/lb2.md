@@ -127,7 +127,7 @@ Mein Vagrantfile sieht folgendermassen aus:
 
 # Ergebnis
 
-Wir können uns jetzt mit dem Host der Vagrant VM auf https://localhost:9555 verbinden. (Port ist natürlich immer, der im Vagrantfile angegeben wurde). Die Zertifikatsauthentifizierung können wir einmal vergessen, dass wir alles lokal auf unserem Netz machen.
+Wir können uns jetzt mit dem Host der Vagrant VM auf https://localhost:9555 verbinden. (Port ist natürlich immer, der im Vagrantfile angegeben wurde). Die Zertifikatsauthentifizierung können wir einmal vergessen, da wir alles lokal auf unserem Netz machen.
 
 Das erwartete Resultat sieht wie folgt aus: 
 
