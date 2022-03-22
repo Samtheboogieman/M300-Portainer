@@ -127,6 +127,10 @@ Mein Vagrantfile sieht folgendermassen aus:
 
 # Ergebnis
 
+Wir können uns jetzt mit dem Host der Vagrant VM auf https://localhost:9555 verbinden. (Port ist natürlich immer, der im Vagrantfile angegeben wurde). Die Zertifikatsauthentifizierung können wir einmal vergessen, dass wir alles lokal auf unserem Netz machen.
+
+Das erwartete Resultat sieht wie folgt aus: 
+
 ![Loginpage](https://github.com/Samtheboogieman/M300-Portainer/blob/master/LB2/images/portainer-login.png)
 
 Hier können wir einen Namen und Passwort für unseren Administrator setzen.
@@ -135,3 +139,10 @@ Hier können wir einen Namen und Passwort für unseren Administrator setzen.
 ![Dashboard](https://github.com/Samtheboogieman/M300-Portainer/blob/master/LB2/images/portainer-weboberflaeche.png)
 
 Wenn alles geklappt hat, sind wir nun im Web-Dashboard für Portainer. Viel Spass beim Ausprobieren ;)
+
+
+
+
+
+
+Stand 22.03.2022
